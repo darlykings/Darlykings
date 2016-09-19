@@ -1,0 +1,479 @@
+﻿#EXTM3U
+#EXTM3U tvg-logo=Auto url-tvg=http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000
+
+
+#EXTINF:0 group-title="FREE",CNL UKRAINE
+udp://@238.0.0.60:1234
+
+
+
+#EXTINF:0 group-title="FREE",CBSN NEWS
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:0 group-title="FREE",C-Span2 News
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="FREE",C-Span3 News
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 group-title="FREE",CCTV News
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+
+#EXTINF:0 group-title="FREE",Euro News
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+
+
+#EXTINF:0 group-title="FREE",BBC NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:0 group-title="FREE",BLOOMBERG
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+
+#EXTINF:0 group-title="FREE",CHANNELS TV
+https://www.youtube.com/watch?v=ANM-dq5USTc,live
+
+
+#EXTINF:0,Sky News
+https://www.youtube.com/watch?v=y60wDzZt8yg
+
+#EXTINF:0 group-title="FREE",UKRAINE TODAY
+udp://@238.0.0.82:1234
+
+
+
+
+#EXTINF:0 group-title="FREE",ADOM TV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+
+#EXTINF:0 group-title="FREE",TVC News NIGERIA
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:0 group-title="FREE",TVC Lagos
+rtmp://77.92.76.135:1935/tvce/livestream
+
+#EXTINF:0 group-title="FREE", LTV (lagos television)
+rtmp://77.92.76.135:1935/ltv/livestream
+
+#EXTINF:0 group-title="FREE",Rwanda TV
+http://197.243.19.131:1935/rtv/rtv/.m3u8
+
+
+#EXTINF:0 group-title="FREE",olive
+http://www.awooze.com/edge3/OliveTV/OliveTV/playlist.m3u8
+
+#EXTINF:0 group-title="FREE",NTA
+rtmp//78.129.189.30:80/edge3/NTA24
+
+#EXTINF:0 group-title="FREE",Africa News Network FTA
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
+#EXTINF:0 group-title="FREE",SilverBird Tv
+http://iphone-streaming.ustream.tv/uhls/19674869/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0 group-title="FREE",BLOOMBERG
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:0 group-title="FREE",RT NEWS
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
+
+
+#EXTINF:0 group-title="FREE",TWIT TECH NEWS 
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="FREE",ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+
+#EXTINF:0 group-title="FREE",CityMontreal
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+
+
+#EXTINF:0 group-title="FREE",TV Africa
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+
+
+#EXTINF:0 group-title="FREE",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title="FREE",AlJazeera News 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+
+#EXTINF:0 group-title="Youtube Live",CHANNELS TV
+https://www.youtube.com/watch?v=ANM-dq5USTc,live
+
+#EXTINF:0 group-title="FREE",СТБ
+udp://@238.0.0.8:1234
+
+
+#EXTINF:0 group-title="FREE",TV CONTINENTAL
+rtmp://77.92.76.135:1935/tvce/livestream
+
+#EXTINF:0 group-title="FREE", TV CONTINENTAL 2
+http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
+
+
+
+
+
+                   #EXTINF:0 group-title=“FREE”,   SPORTS PLAYLIST
+
+
+
+#EXTINF:0 group-title="FREE",British Eurosport HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:0 group-title="FREE",British Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:0 group-title="FREE",British Eurosport fr
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+#EXTINF:0 group-title="FREE",British Eurosport 1
+#EXTVLCOPT:audio-track=2
+http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosporthd?krasview.ru
+
+
+
+#EXTINF:0 group-title=“FREE”,Футбол 1 UA
+http://193.23.58.156:4025/udp/234.1.20.16:1234 
+#EXTINF:0 group-title=“FREE”,Футбол 2 UA
+http://193.23.58.156:4025/udp/234.1.20.17:1234
+
+
+#EXTINF:0 group-title="FREE",МАТЧ! ФУТБОЛ 1 hd
+
+
+
+
+#EXTINF:0 group-title="FREE",ASPOR HD
+http://tinyurl.com/hdstcwz
+
+
+
+
+
+#EXTINF:0 group-title="FREE",Fox Sports 506 HD
+http://motorsport.hopto.org:8080/
+
+
+
+
+#EXTINF:0 group-title=“FREE”,Trace Sports&Stars HD 
+http://78.107.23.217:4014/udp/232.32.212.180:5050
+
+
+#EXTINF:0 group-title=“FREE”,SKY SPORTS 1
+http://bit.do/3JhD
+#EXTINF:0 group-title=“FREE”,SKY SPORTS 4
+http://bit.do/3Jie
+
+#EXTINF:0 group-title=“FREE”, 2+2
+udp://@238.0.0.50:1234
+
+
+
+#EXTINF:0 group-title=“FREE”,FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+
+
+
+#EXTINF:0 group-title=“FREE”,SPORT 1
+rtmp://rtmp.pvplus.tv:80/rtmp/sport1b1ua
+
+#EXTINF:0 group-title=“FREE”,SPORT 2
+rtmp://rtmp.pvplus.tv:80/rtmp/sport2b1ua
+
+
+
+
+#EXTINF:0 group-title=“FREE”, SPORTS TONIGHT
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+
+
+
+
+#EXTINF:0 group-title=“FREE”,viasat sport
+http://194.8.147.146:4022/udp/239.0.1.183:4000
+
+#EXTINF:0 group-title=“FREE”,МАТЧ! 
+http://178.212.183.227:8080/udp/239.195.1.33:1234
+
+#EXTINF:0 group-title=“FREE”,МАТЧ!
+http://5.189.253.49:8081/live/matchtvhd/chunks.m3u8
+
+#EXTINF:0 group-title=“FREE”,HTB
+http://5.8.33.215:8081/live/ntvhd/playlist.m3u8
+
+
+
+
+
+
+                                #EXTINF:0 group-title=“FREE”, CHURCHE PLAYLIST
+
+
+
+
+
+#EXTINF:0 group-title=“FREE”, Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+
+
+
+#EXTINF:0 group-title=“FREE”, Alb uk+
+rtmp://188.138.17.8:1935/albuk/albuk+.stream
+
+
+
+
+
+
+
+
+
+                                   #EXTINF:0 group-title=“FREE”,MUSICS PLAYLIST
+
+#EXTINF:0 group-title=“FREE”,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:0 group-title=“FREE”,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:0 group-title=“FREE”,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 group-title=“FREE”, DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:0 group-title=“FREE”,AFRICAN MUSIC
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 group-title="FREE",fusionplus tv
+http://play.inacdn.com/playlist_live/43_135_live.m3u8
+
+#EXTINF:0 group-title=“FREE”,HIPTV_Nig
+http://ngx.cr2.streamzilla.xlcdn.com/session/fc5b7341243db781fcb61265a52d28ff/sz/Un1ty/wowza4/live/webwwwhiptv51845/chunklist.m3u8
+
+#EXTINF:0 group-title=“FREE”,Wazobia tv
+http://westream.we-tv.tv:1935/live/smil:WazobiaTV.smil/jwplayer.m3u8
+#EXTINF:0 group-title=“FREE”,Wazobia max
+http://westream.we-tv.tv:1935/live/smil:CoolTV.smil/jwplayer.m3u8
+#EXTINF:0 group-title=“FREE”,OH TV
+http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,KeduTv
+http://flash.netcasterusa.com:1935/kedutv/kedutv/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,Rave tv __Nigeria
+rtmp://77.92.76.135:1935/ravetv/livestream
+
+#EXTINF:0 group-title=“FREE”, 1 HD
+http://rtmp.one.by:1300/
+#EXTINF:0 group-title=“FREE”,Best nusic tv eska
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+
+
+#EXTINF:0 group-title=“FREE”,CLUBLAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,MTVA
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+#EXTINF:0 group-title=“FREE”,VOX TV
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+#EXTINF:0 group-title=“FREE”,canal 225 (NIG and French)
+rtmp://46.105.15.96:1935/live/myStream
+
+
+
+#EXTINF:0 group-title=“FREE”,Trace Urban HD
+http://78.107.23.217:4014/udp/232.32.212.182:5050
+
+
+#EXTINF:0 group-title=“FREE”,Trace Urban
+http://er-cdn.ertelecom.ru/os/video/hls/315feaf4a3a4dbb9678137a1c13257f2ef2191515386a73268ff19dac56f1e3ac56f64b1d616d446b5b812474a0dec134157d3ca5a9e9c104582ec59336f88025b0cba47fe769452e5fba51ec419c6e643403d10c3a9935e64e4e069ea937d847e54f35624d8b7c22ed7298093bf3129d9bf142b9b102070d485b32f9b5e9832c520a34c31dbaf0511ea4e02bfc54a246af716fdebaa30d10bb67e1276e102b59156d455da5cc1046639fbc7ae85393165d19488efdf7d06db8bf3af490ead8feb821865a2764cbbb839ab414efce7d3b9630faa5b14cce93f6e22c5b72eb2ae/playlist.m3u8
+
+
+
+#EXTINF:0 group-title=“FREE”,ESKA PARTY
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0 group-title=“FREE”,ESKA tv
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+
+
+
+#EXTINF:0 group-title=“FREE”, Heart tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title=“FREE”, Heart tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+
+#EXTINF:0 group-title=“FREE”,KISS TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0 group-title=“FREE”,MFM TV HQ
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,М1
+udp://@238.0.0.14:1234
+
+#EXTINF:0 group-title=“FREE”,М2
+udp://@238.0.0.46:1234
+
+
+#EXTINF:0 group-title=“FREE”,NRJ hits
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+
+#EXTINF:0 group-title=“FREE”,ReTV Jamaica
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 group-title=“FREE”,MusicBox
+udp://@238.0.0.45:1234
+
+
+#EXTINF:0 group-title=“FREE”,   LIFESTYLE PLAYLIST
+
+#EXTINF:0 group-title=“FREE”, mtm
+rtmp://media.btbn.tv/mtmtv/live
+
+#EXTINF:0 group-title=“FREE”,Cinestream TV (Barbados)
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+
+
+#EXTINF:0 group-title=“FREE”,tsc
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
+
+
+#EXTINF:0 group-title=“FREE”, london live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0 group-title=“FREE”, HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+
+#EXTINF:0 group-title=“FREE”, HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+
+#EXTINF:0 group-title=“FREE”,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+
+#EXTINF:0 group-title=“FREE”, University of California
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+
+#EXTINF:0 group-title=“FREE”,OGUN TV
+rtmp://77.92.76.135:1935/OGTV/livestream
+
+#EXTINF:0 group-title=“FREE”,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:0 group-title=“FREE”, Diaspora 
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+
+#EXTINF:0 group-title=“FREE”,KTN Kenya
+http://ec25.ott.bzdv.net/stream,195,341,830,.m3u8
+
+#EXTINF:0 group-title=“FREE”,RTI 1
+http://188.138.102.27:1935/live/smil:rti1.smil/chunklist_w1778868575_b548304_sleng.m3u8
+
+
+
+
+
+#EXTINF:0 group-title=“FREE”,Arabic Movies
+http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/chunklist_w897460532.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDE2IDc6Mjg6NTIgUE0maGFzaF92YWx1ZT1YVGF5ZkRIbXFVUnpyZ3FPK0gyMkd3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:audio-track=1
+
+
+#EXTINF:0 group-title=“FREE”,Fashion HD
+rtmp://95.67.8.43:1935/live/fashionhd 
+
+
+#EXTINF:0 group-title=“FREE”, Travel Channel
+#EXTVLCOPT:audio-track=2
+http://78.30.254.43:8989/udp/239.0.0.248:4000
+
+
+#EXTINF:0 group-title=“FREE”,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+
+#EXTINF:0 group-title=“FREE”,AD TV
+http://162.212.176.83:8080/mystream2.m3u8
+
+#EXTINF:0 group-title=“FREE”,chosen tv (nigeria)
+rtmp://155.obj.netromedia.net/chosenavn/mpegts.stream
+#EXTINF:0 group-title=“FREE”,redeem tv (nigeria)
+rtmp://38.96.175.135:1935/redeemtv/redeemtv
+#EXTINF:0 group-title=“FREE”,Dove tv
+rtmp://38.96.175.135:1935/redeemtv/redeemtv
+
+#EXTINF:0 group-title=“FREE”,dunamistv (nigeria)
+rtmp://169.54.220.190:1935/live/dunamis2471
+
+#EXTINF:0 group-title=“FREE”,Emmanuel TV
+http://118965-lh.akamaihd.net/i/etv_live@74820/master.m3u8
+
+#EXTINF:0 group-title=“FREE”,love world tv
+http://154.obj.netromedia.net/LoveWorldtv/LoveWorldtv/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,revelation
+http://simplestr.vo.llnwd.net/coder5/coder.channels.channel11/hls/1/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:0 group-title=“FREE”, Revelation TV
+http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
+#EXTINF:0 group-title=“FREE”,UBN
+rtmp://109.123.70.27:1935/8054/8054
+#EXTINF:0 group-title=“FREE”,kingdom sat
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
+
+                   #EXTINF:0 group-title=“FREE”,CARTOONS PLAYLIST
+
+
+
+#EXTINF:0 group-title=“FREE”,Animal Planet hd
+#EXTVLCOPT:audio-track=2
+http://5.100.83.219:4022/udp/224.3.20.2:1234
+
+#EXTINF:0 group-title=“FREE”,Discovery Chanel
+#EXTVLCOPT:audio-track=2 
+http://5.100.83.219:4022/udp/224.3.20.3:1234
+
+
+
+#EXTINF:0 group-title=“FREE”,Smile of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+
+
+
+
+
+
+                              #EXTINF:0 group-title=“FREE”,  ADULTS PLAYLIST
+
+
+#EXTINF:0 group-title=“FREE”, spice tv
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499 
