@@ -136,12 +136,18 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 
 #EXTINF:0 group-title="FREE",British Eurosport 1
 #EXTVLCOPT:audio-track=2
-http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosporthd?krasview.ru
-
+http://62.205.157.29:4022/udp/239.0.0.78:1234
 
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
+http://62.205.157.29:4022/udp/239.0.0.63:1234
+
+#EXTINF:0 group-title=“FREE”,Футбол 1 UA
 http://193.23.58.156:4025/udp/234.1.20.16:1234 
+
+#EXTINF:0 group-title=“FREE”,Футбол 2 UA
+http://62.205.157.29:4022/udp/239.0.0.212:1234
+
 #EXTINF:0 group-title=“FREE”,Футбол 2 UA
 http://193.23.58.156:4025/udp/234.1.20.17:1234
 
@@ -213,8 +219,9 @@ http://5.189.253.49:8081/live/matchtvhd/chunks.m3u8
 #EXTINF:0 group-title=“FREE”,HTB
 http://5.8.33.215:8081/live/ntvhd/playlist.m3u8
 
-
-
+#EXTINF:0 group-title=“FREE”,Viasat Sport HD
+#EXTVLCOPT:audio-track=2
+http://62.205.157.29:4022/udp/239.0.0.86:1234
 
 
 
@@ -252,6 +259,18 @@ http://188.93.239.20:8012/play/a019
 
 #EXTINF:0 group-title=“FREE”,TV series
 http://188.93.239.20:8012/play/a018
+
+
+#EXTINF:0 group-title=“FREE”,TV1000
+#EXTVLCOPT:audio-track=2
+http://193.8.246.16:8000/vl-ru-tv1000-1800
+
+
+#EXTINF:0 group-title=“FREE”,TV1000 ACTION
+#EXTVLCOPT:audio-track=2
+http://193.8.246.16:8000/vl-ru-tv1000action-1800
+
+
                                    #EXTINF:0 group-title=“FREE”,MUSICS PLAYLIST
 
 #EXTINF:0 group-title=“FREE”,VEVO 1
@@ -298,6 +317,9 @@ http://rtmp.one.by:1300/
 #EXTINF:0 group-title=“FREE”,Best nusic tv eska
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 
+
+#EXTINF:0 group-title=“FREE”,EU MUSIC
+http://62.205.157.29:4022/udp/239.0.0.84:1234
 
 
 #EXTINF:0 group-title=“FREE”,CLUBLAND
@@ -489,6 +511,9 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
                               #EXTINF:0 group-title=“FREE”,  ADULTS PLAYLIST
 
+
+#EXTINF:0 group-title=“FREE”,Fashion tv
+http://62.205.157.29:4022/udp/239.0.0.77:1234
 
 #EXTINF:0 group-title=“FREE”, spice tv
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499 
