@@ -40,8 +40,8 @@ https://www.youtube.com/watch?v=y60wDzZt8yg
 #EXTINF:0 group-title="FREE",UKRAINE TODAY
 udp://@238.0.0.82:1234
 
-
-
+#EXTINF:0 group-title="FREE",Fox News
+http://188.93.239.20:8012/play/a014
 
 #EXTINF:0 group-title="FREE",ADOM TV
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
@@ -197,6 +197,8 @@ rtmp://rtmp.pvplus.tv:80/rtmp/sport2b1ua
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 
 
+#EXTINF:0 group-title=“FREE”,Motors TV
+http://188.93.239.20:8012/play/a011
 
 
 #EXTINF:0 group-title=“FREE”,viasat sport
@@ -231,13 +233,25 @@ http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 rtmp://188.138.17.8:1935/albuk/albuk+.stream
 
 
+#EXTINF:0 group-title=“FREE”,Syfy
+http://188.93.239.20:8012/play/a00z
 
 
+#EXTINF:0 group-title=“FREE”,TVCinema 1
+http://188.93.239.20:8012/play/a016
 
+#EXTINF:0 group-title=“FREE”,TVCinema 3
+http://188.93.239.20:8012/play/a017
 
+#EXTINF:0 group-title=“FREE”,Odisseia
+http://188.93.239.20:8012/play/a013
 
+#EXTINF:0 group-title=“FREE”,Disney Channel
+#EXTVLCOPT:audio-track=2
+http://188.93.239.20:8012/play/a019
 
-
+#EXTINF:0 group-title=“FREE”,TV series
+http://188.93.239.20:8012/play/a018
                                    #EXTINF:0 group-title=“FREE”,MUSICS PLAYLIST
 
 #EXTINF:0 group-title=“FREE”,VEVO 1
@@ -302,14 +316,8 @@ rtmp://46.105.15.96:1935/live/myStream
 
 
 
-#EXTINF:0 group-title=“FREE”,Trace Urban HD
-http://78.107.23.217:4014/udp/232.32.212.182:5050
-
-
 #EXTINF:0 group-title=“FREE”,Trace Urban
-http://er-cdn.ertelecom.ru/os/video/hls/315feaf4a3a4dbb9678137a1c13257f2ef2191515386a73268ff19dac56f1e3ac56f64b1d616d446b5b812474a0dec134157d3ca5a9e9c104582ec59336f88025b0cba47fe769452e5fba51ec419c6e643403d10c3a9935e64e4e069ea937d847e54f35624d8b7c22ed7298093bf3129d9bf142b9b102070d485b32f9b5e9832c520a34c31dbaf0511ea4e02bfc54a246af716fdebaa30d10bb67e1276e102b59156d455da5cc1046639fbc7ae85393165d19488efdf7d06db8bf3af490ead8feb821865a2764cbbb839ab414efce7d3b9630faa5b14cce93f6e22c5b72eb2ae/playlist.m3u8
-
-
+http://188.93.239.20:8012/play/a01c
 
 #EXTINF:0 group-title=“FREE”,ESKA PARTY
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
@@ -452,7 +460,8 @@ http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3
 
                    #EXTINF:0 group-title=“FREE”,CARTOONS PLAYLIST
 
-
+#EXTINF:0 group-title=“FREE”,CBS Reality
+http://188.93.239.20:8012/play/a06g
 
 #EXTINF:0 group-title=“FREE”,Animal Planet hd
 #EXTVLCOPT:audio-track=2
@@ -463,6 +472,12 @@ http://5.100.83.219:4022/udp/224.3.20.2:1234
 http://5.100.83.219:4022/udp/224.3.20.3:1234
 
 
+#EXTINF:0 group-title=“FREE”,Deutsche Welle
+http://188.93.239.20:8012/play/a01a
+
+
+#EXTINF:0 group-title=“FREE”,Discovery Channel
+http://188.93.239.20:8012/play/a012
 
 #EXTINF:0 group-title=“FREE”,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
@@ -477,3 +492,9 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 #EXTINF:0 group-title=“FREE”, spice tv
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499 
+
+#EXTINF:0 group-title=“FREE”,Venus
+http://188.93.239.20:8012/play/a015
+
+
+
