@@ -5,7 +5,8 @@
 #EXTINF:0 group-title="FREE",CNL UKRAINE
 udp://@238.0.0.60:1234
 
-
+#EXTINF:0 group-title="FREE",CNN International
+http://195.216.210.5:4444/udp/239.0.1.95:4000
 
 #EXTINF:0 group-title="FREE",CBSN NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -139,13 +140,13 @@ http://62.205.157.29:4022/udp/239.0.0.78:1234
 
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
-http://62.205.157.29:4022/udp/239.0.0.63:1234
+http://195.216.210.5:4444/udp/239.0.1.203:4000
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
 http://193.23.58.156:4025/udp/234.1.20.16:1234 
 
 #EXTINF:0 group-title=“FREE”,Футбол 2 UA
-http://62.205.157.29:4022/udp/239.0.0.212:1234
+http://195.216.210.5:4444/udp/239.0.0.224:4000
 
 #EXTINF:0 group-title=“FREE”,Футбол 2 UA
 http://193.23.58.156:4025/udp/234.1.20.17:1234
@@ -318,7 +319,7 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 
 
 #EXTINF:0 group-title=“FREE”,EU MUSIC
-http://62.205.157.29:4022/udp/239.0.0.84:1234
+http://195.216.210.5:4444/udp/239.0.0.3:4000
 
 
 #EXTINF:0 group-title=“FREE”,CLUBLAND
@@ -335,7 +336,8 @@ rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:0 group-title=“FREE”,canal 225 (NIG and French)
 rtmp://46.105.15.96:1935/live/myStream
 
-
+#EXTINF:0 group-title=“FREE”,Trace Urban HD
+http://195.216.210.5:4444/udp/239.0.1.124:4000
 
 #EXTINF:0 group-title=“FREE”,Trace Urban
 http://188.93.239.20:8012/play/a01c
@@ -520,5 +522,7 @@ rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:0 group-title=“FREE”,Venus
 http://188.93.239.20:8012/play/a015
 
-
-
+#EXTINF:0 group-title=“FREE”,hustler tv
+http://195.216.210.5:4444/udp/239.0.0.199:4000
+#EXTINF:0 group-title=“FREE”,play boy
+http://195.216.210.5:4444/udp/239.0.0.200:4000
