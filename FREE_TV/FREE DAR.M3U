@@ -152,27 +152,15 @@ http://195.216.210.5:4444/udp/239.0.0.224:4000
 http://193.23.58.156:4025/udp/234.1.20.17:1234
 
 
-#EXTINF:0 group-title="FREE",МАТЧ!арена
-http://195.216.210.36:29998/udp/239.0.0.237:4000
+#EXTINF:0 group-title=“FREE”,МАТЧ! 
+http://178.212.183.227:8080/udp/239.195.1.33:1234
 
-#EXTINF:0 group-title="FREE",МАТЧ!
-http://195.216.210.36:29998/udp/239.0.0.253:4000
+#EXTINF:0 group-title=“FREE”,МАТЧ!
+http://5.189.253.49:8081/live/matchtvhd/chunks.m3u8
 
 
-#EXTINF:0,МАТЧ! ФУТБОЛ 1
-http://195.216.210.36:29998/udp/239.0.0.169:4000
-#EXTINF:0,МАТЧ! ФУТБОЛ 1
-http://195.216.210.36:29998/udp/239.0.0.93:4000
-#EXTINF:0,МАТЧ! ФУТБОЛ 2
-http://195.216.210.36:29998/udp/239.0.0.96:4000
-#EXTINF:0,МАТЧ! ФУТБОЛ 2
-http://195.216.210.36:29998/udp/239.0.0.235:4000
-#EXTINF:0,МАТЧ! ФУТБОЛ 3
-http://195.216.210.36:29998/udp/239.0.0.98:4000
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-http://195.216.210.36:29998/udp/239.0.1.179:4000
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-http://195.216.210.36:29998/udp/239.0.0.238:4000
+
+
 
 
 
@@ -229,18 +217,9 @@ http://188.93.239.20:8012/play/a011
 #EXTINF:0 group-title=“FREE”,viasat sport
 http://194.8.147.146:4022/udp/239.0.1.183:4000
 
-#EXTINF:0 group-title=“FREE”,МАТЧ! 
-http://178.212.183.227:8080/udp/239.195.1.33:1234
 
-#EXTINF:0 group-title=“FREE”,МАТЧ!
-http://5.189.253.49:8081/live/matchtvhd/chunks.m3u8
 
-#EXTINF:0 group-title=“FREE”,HTB
-http://5.8.33.215:8081/live/ntvhd/playlist.m3u8
 
-#EXTINF:0 group-title=“FREE”,Viasat Sport HD
-#EXTVLCOPT:audio-track=2
-http://62.205.157.29:4022/udp/239.0.0.86:1234
 
 
 
