@@ -303,17 +303,14 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0 group-title=“FREE”, DREAM TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
-#EXTINF:0 group-title=“FREE”,AFRICAN MUSIC
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0 group-title=“FREE”,African Music FusionPlus
+http://play.inacdn.com/playlist_live/43_135_live.m3u8
 
 
 #EXTINF:0 group-title=“FREE”,VH1 European
 http://62.205.157.29:4022/udp/239.0.0.76:1234
 
 
-
-#EXTINF:0 group-title="FREE",fusionplus tv
-http://play.inacdn.com/playlist_live/43_135_live.m3u8
 
 #EXTINF:0 group-title=“FREE”,HIPTV_Nig
 http://ngx.cr2.streamzilla.xlcdn.com/session/fc5b7341243db781fcb61265a52d28ff/sz/Un1ty/wowza4/live/webwwwhiptv51845/chunklist.m3u8
