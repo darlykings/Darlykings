@@ -34,6 +34,9 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 #EXTINF:0 group-title="FREE",CHANNELS TV
 https://www.youtube.com/watch?v=ANM-dq5USTc,live
 
+#EXTINF:0 group-title="FREE",JOY NEWS (Ghana)
+https://www.youtube.com/watch?v=pxopNflUd7o,live
+
 
 #EXTINF:0,Sky News
 https://www.youtube.com/watch?v=y60wDzZt8yg
