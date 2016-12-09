@@ -34,7 +34,7 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 #EXTINF:0 group-title="FREE",CHANNELS TV
 https://www.youtube.com/watch?v=ANM-dq5USTc,live
 
-#EXTINF:0 group-title="FREE",Joy News Live
+#EXTINF:0 group-title="FREE",Joy News Live (Ghana)
 https://www.youtube.com/watch?v=pxopNflUd7o,live
 
 
@@ -143,13 +143,13 @@ http://62.205.157.29:4022/udp/239.0.0.78:1234
 
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
-http://195.216.210.5:4444/udp/239.0.1.203:4000
+http://193.23.58.156:4025/udp/234.1.20.16:1234
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
 http://193.23.58.156:4025/udp/234.1.20.16:1234 
 
 #EXTINF:0 group-title=“FREE”,Футбол 2 UA
-http://195.216.210.5:4444/udp/239.0.0.224:4000
+http://193.23.58.156:4025/udp/234.1.20.17:1234
 
 #EXTINF:0 group-title=“FREE”,Футбол 2 UA
 http://193.23.58.156:4025/udp/234.1.20.17:1234
@@ -175,12 +175,24 @@ http://91.224.17.6:9123/rtp/239.100.0.98:1234
 http://91.224.17.6:9123/rtp/239.100.0.101:1234
 #EXTINF:0,МАТЧ! НАШ СПОРТ
 http://91.224.17.6:9123/rtp/239.100.0.99:1234
+
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 2
+http://91.215.232.51:8057/play/a01i
+
 #EXTINF:0,МАТЧ! ФУТБОЛ 1
 http://91.224.17.6:9123/rtp/239.100.0.118:1234
+
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 2
+http://91.215.232.51:8057/play/a01g
+
 #EXTINF:0,МАТЧ! ФУТБОЛ 2
 http://91.224.17.6:9123/rtp/239.100.0.119:1234
 #EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
 http://91.224.17.6:9123/rtp/239.100.0.171:1234
+
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 3
+http://91.215.232.51:8057/play/a01h
+
 #EXTINF:0,МАТЧ! ФУТБОЛ 3
 http://91.224.17.6:9123/rtp/239.100.0.125:1234
 #EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
@@ -507,7 +519,7 @@ http://188.93.239.20:8012/play/a06g
 
 #EXTINF:0 group-title=“FREE”,Animal Planet hd
 #EXTVLCOPT:audio-track=2
-http://5.100.83.219:4022/udp/224.3.20.2:1234
+http://91.215.232.51:8057/play/a01f
 
 #EXTINF:0 group-title=“FREE”,Discovery Chanel
 #EXTVLCOPT:audio-track=2 
@@ -517,6 +529,9 @@ http://5.100.83.219:4022/udp/224.3.20.3:1234
 #EXTINF:0 group-title=“FREE”,Deutsche Welle
 http://188.93.239.20:8012/play/a01a
 
+#EXTINF:0 group-title=“FREE”,Nickelodion
+#EXTVLCOPT:audio-track=2
+http://91.215.232.51:8057/play/a01e
 
 #EXTINF:0 group-title=“FREE”,Discovery Channel
 http://188.93.239.20:8012/play/a012
