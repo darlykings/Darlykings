@@ -112,6 +112,9 @@ http://163.172.6.8:8000/live/aaaccc/aaaccc/1177.ts
 #EXTINF:0 group-title=“FREE”,Bein Sport 2
 http://163.172.6.8:8000/live/aaaccc/aaaccc/168.ts
 
+#EXTINF:0 group-title=“FREE”,Bein Sport 5
+http://163.172.6.8:8000/live/aaaccc/aaaccc/165.ts
+
 #EXTINF:0 group-title=“FREE”,Sport tv 1
 http://62.210.139.232:19500/live/111/111/2419.ts
 
