@@ -214,6 +214,9 @@ http://62.4.21.70:8000/live/mazane/mazane/2940.ts
 #EXTINF:0 group-title=“FREE”,NollyWood+
 http://62.4.21.70:8000/live/mazane/mazane/2949.ts
 
+#EXTINF:0 group-title=“FREE”,MBC 2
+http://163.172.6.8:8000/live/aaaccc/aaaccc/49.ts
+
 #EXTINF:0 group-title=“FREE”,TVCinema 1
 http://188.93.239.20:8012/play/a016
 
