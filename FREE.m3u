@@ -134,10 +134,10 @@ http://193.23.58.156:4025/udp/234.1.20.17:1234
 #EXTINF:0 group-title=“FREE”,МАТЧ! 
 http://178.212.183.227:8080/udp/239.195.1.33:1234
 
-#EXTINF:0,МАТЧ! ФУТБОЛ 1
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 1
 http://82.146.36.98:4545/bol815
 
-#EXTINF:0,МАТЧ! ФУТБОЛ 2
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 2
 http://83.174.198.141/Futbol2HD.m3u8
 
 
@@ -170,7 +170,12 @@ rtmp://rtmp.pvplus.tv:80/rtmp/sport2b1ua
 #EXTINF:0 group-title=“FREE”, SPORTS TONIGHT
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 
-
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 1
+http://94.158.80.101:8081/udp/239.0.0.93:4000 
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 2
+http://94.158.80.101:8081/udp/239.0.0.96:4000 
+#EXTINF:0 group-title=“FREE”,МАТЧ! ФУТБОЛ 3
+http://94.158.80.101:8081/udp/239.0.0.98:4000 
 
 
                                 #EXTINF:0 group-title=“FREE”, CHURCHE PLAYLIST
