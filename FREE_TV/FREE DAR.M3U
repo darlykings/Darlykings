@@ -95,17 +95,32 @@ http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
 
                    #EXTINF:0 group-title=“FREE”,   SPORTS PLAYLIST
 
-
-
-#EXTINF:0 group-title="FREE",British Eurosport HD
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0 group-title="FREE",British Eurosport 1
+http://83.79.134.18:9000/play/eurosport1234
 
 #EXTINF:0 group-title="FREE",British Eurosport 1
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+http://tinyurl.com/z3frq4a
 
-#EXTINF:0 group-title="FREE",British Eurosport fr
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0 group-title="FREE",British Eurosport 2
+http://89.111.247.10:99/hls/eurosport2.m3u8
 
+#EXTINF:0 group-title="FREE",Eurosport 2 Xtra HD
+http://83.79.134.18:9000/play/euroextrahd1234
+
+#EXTINF:0 group-title=“FREE”,ARENASPORT 1
+http://89.111.247.10:99/hls/arenasport1.m3u8
+
+#EXTINF:0 group-title=“FREE”,ARENASPORT 2
+http://89.111.247.10:99/hls/arenasport2.m3u8
+
+#EXTINF:0 group-title=“FREE”,ARENASPORT 3
+http://89.111.247.10:99/hls/arenasport3.m3u8
+
+#EXTINF:0 group-title=“FREE”,ARENASPORT 4
+http://89.111.247.10:99/hls/arenasport4.m3u8
+
+#EXTINF:0 group-title=“FREE”,Sport TV 2
+http://83.79.134.18:9000/play/sptv21234
 
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
@@ -124,42 +139,9 @@ http://193.23.58.156:4025/udp/234.1.20.17:1234
 #EXTINF:0 group-title=“FREE”,МАТЧ! 
 http://178.212.183.227:8080/udp/239.195.1.33:1234
 
-#EXTINF:0,МАТЧ! ФУТБОЛ 1
-http://195.69.221.203:9000/9
-
-#EXTINF:0,МАТЧ! ФУТБОЛ 2
-http://195.69.221.203:9000/10
 
 #EXTINF:0,МАТЧ! ФУТБОЛ 2
 http://83.174.198.141/Futbol2HD.m3u8
-
-#EXTINF:0,МАТЧ! ФУТБОЛ 3
-http://195.69.221.203:9000/11
-
-#EXTINF:0,МАТЧ! ФУТБОЛ 3
-http://195.69.221.203:9000/11
-
-#EXTINF:0,МАТЧ! ФУТБОЛ 3
-http://83.174.198.141/Futbol3HD.m3u8
-
-
-#EXTINF:0,МАТЧ! АРЕНА
-http://91.224.17.6:9123/rtp/239.100.0.94:1234
-#EXTINF:0,МАТЧ! АРЕНА HD
-http://91.224.17.6:9123/rtp/239.100.0.103:1234
-#EXTINF:0,МАТЧ! БОЕЦ
-http://91.224.17.6:9123/rtp/239.100.0.97:1234
-#EXTINF:0,МАТЧ! ИГРА
-http://91.224.17.6:9123/rtp/239.100.0.98:1234
-#EXTINF:0,МАТЧ! ИГРА HD
-http://91.224.17.6:9123/rtp/239.100.0.101:1234
-#EXTINF:0,МАТЧ! НАШ СПОРТ
-http://91.224.17.6:9123/rtp/239.100.0.99:1234
-
-
-
-
-
 
 
 #EXTINF:0 group-title="FREE",Fox Sports 506 HD
