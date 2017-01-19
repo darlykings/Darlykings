@@ -106,18 +106,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 #EXTINF:0 group-title="FREE",British Eurosport fr
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
-#EXTINF:0 group-title=“FREE”,TSN 1
-http://163.172.6.8:8000/live/aaaccc/aaaccc/1177.ts
 
-#EXTINF:0 group-title=“FREE”,Bein Sport 2
-http://163.172.6.8:8000/live/aaaccc/aaaccc/168.ts
-
-
-#EXTINF:0 group-title=“FREE”,Bein Sport 5
-http://163.172.6.8:8000/live/aaaccc/aaaccc/165.ts
-
-#EXTINF:0 group-title=“FREE”,Sport tv 1
-http://62.210.139.232:19500/live/111/111/2419.ts
 
 #EXTINF:0 group-title=“FREE”,Футбол 1 UA
 http://193.23.58.156:4025/udp/234.1.20.16:1234
