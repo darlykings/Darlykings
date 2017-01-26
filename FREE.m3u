@@ -97,6 +97,10 @@ http://83.79.134.18:9000/play/eurosport1234
 http://tinyurl.com/z3frq4a
 
 #EXTINF:0 group-title="FREE",British Eurosport 2
+http://5.137.89.187:1234/udp/233.7.70.77:5000
+
+
+#EXTINF:0 group-title="FREE",British Eurosport 2
 http://89.111.247.10:99/hls/eurosport2.m3u8
 
 #EXTINF:0 group-title="FREE",Eurosport 2 Xtra HD
@@ -257,6 +261,15 @@ http://195.69.221.203:9002/14
 #EXTINF:0 group-title=“FREE”,canal 225 (NIG and French)
 rtmp://46.105.15.96:1935/live/myStream
 
+
+#EXTINF:0 group-title=“FREE”,hit africa classic hd 
+http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvclassiq_all/playlist.m3u8 
+
+#EXTINF:0 group-title=“FREE”,hit africa urban hd 
+http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvurbin_all/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,hit africa caribbean hd 
+http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvzook_all/playlist.m3u8 
 
 #EXTINF:0 group-title=“FREE”,ESKA PARTY
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
