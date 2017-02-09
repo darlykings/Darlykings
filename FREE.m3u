@@ -262,13 +262,17 @@ http://195.69.221.203:9002/14
 rtmp://46.105.15.96:1935/live/myStream
 
 
-#EXTINF:0 group-title=“FREE”,hit africa classic hd 
+#EXTINF:0 group-title=“FREE”,Hit African Classic hd 
 http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvclassiq_all/playlist.m3u8 
 
-#EXTINF:0 group-title=“FREE”,hit africa urban hd 
+#EXTINF:0 group-title=“FREE”,Hit African Urban hd 
 http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvurbin_all/playlist.m3u8
 
-#EXTINF:0 group-title=“FREE”,hit africa caribbean hd 
+
+#EXTINF:0 group-title=“FREE”,Hit African Voice hd 
+http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvvox_all/playlist.m3u8
+
+#EXTINF:0 group-title=“FREE”,Hit African Caribbean hd 
 http://hitafrica.biz:1935/tvchannel/ngrp:unstopltvzook_all/playlist.m3u8 
 
 #EXTINF:0 group-title=“FREE”,ESKA PARTY
