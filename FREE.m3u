@@ -255,6 +255,10 @@ http://195.69.221.204:9009/18
 #EXTINF:0 group-title=“FREE”,VH 1 Classic
 http://195.69.221.204:9009/17
 
+#EXTINF:0 group-title=“FREE”,EU MUSIC
+http://159.224.124.125:1111/udp/238.0.0.43:1234 
+
+
 #EXTINF:0 group-title=“FREE”,Trace Urban
 http://195.69.221.203:9002/14
 
